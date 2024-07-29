@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Lucas </h1>
 <h3 align="center">A Software Engineering Student in Universidade de Brasília (UnB)</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning frontend technologies 
 
 - 📫 How to reach me **joaoaraujosiqueira@gmail.com**
 
