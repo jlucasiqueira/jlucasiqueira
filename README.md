@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Lucas</h1>
 <h3 align="center">Software Engineering Student at UnB</h3>
 
-- 🌱 I’m currently learning **Web Development, Programming Languages, AI technologies**
+- 🌱 I’m currently learning **FullStack Programming, Data Science, AI technologies**
 
 - ✅ Completed projects: [**EducaMinas**](https://educaminas.vercel.app)
 
